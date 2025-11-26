@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php
+    header('Location: pages/registry-data.php');
+    exit;
+    ?>
 </body>
 </html>
